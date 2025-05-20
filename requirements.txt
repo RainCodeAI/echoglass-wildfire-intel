@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+folium
+streamlit-folium
+plotly
+langchain
+langchain-google-genai
+google-generativeai
