@@ -1,0 +1,17 @@
+[theme]
+base="dark"
+primaryColor="#00fff7"
+backgroundColor="#151e28"
+secondaryBackgroundColor="#1c2735"
+textColor="#ffffff"
+font="monospace"
+
+[server]
+headless = true
+enableCORS = false
+
+[client]
+showSidebarNavigation = false
+
+[browser]
+gatherUsageStats = false
